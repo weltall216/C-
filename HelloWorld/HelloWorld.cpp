@@ -8,7 +8,6 @@ int main() {
 	return 0;
 }	
 
-void function(void) {
-
-
+int function(void) {
+	return 0;
 }
